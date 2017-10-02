@@ -9,6 +9,7 @@ links-as-notes: true
 linkcolor: NavyBlue
 link-citations: true
 paper-size: A4
+bibliography: varunpatro_relativitypaper_citations.bib
 header-includes:
   - \usepackage{fullpage}
   - \usepackage{hyperref}
